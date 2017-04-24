@@ -1,0 +1,17 @@
+
+
+las colecciones de los arreglos lo encontramos en la clase java.util
+
+
+
+
+CRUD de empledo ejemplo "arreglos dinamicos"
+	
+campos
+
+	idempleado
+	nombres
+	sueldos
+	descuentos
+	neto
+
